@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706850476270",
+    "project_id": "fazacademie",
+    "storage_bucket": "fazacademie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706850476270:android:4da484fde1e5c2d7e523ff",
+        "android_client_info": {
+          "package_name": "faz.academy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsMDLl0fP7Nvo4SpjXksg_vsugF8rnzWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
